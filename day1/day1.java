@@ -1,3 +1,4 @@
+package day1;
 import java.util.Scanner;
 class day1{
     public static void print(int n){
